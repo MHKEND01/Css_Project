@@ -1,6 +1,6 @@
  body
-{behavior:url(https://mhkend01.github.io/Css_Project/jsStyles.js);
-    background: #000;
+{
+    background-image: url("https://mhkend01.github.io/Css_Project/matrix.gif");
   margin: 0;
 }
 /*
