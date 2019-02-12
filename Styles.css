@@ -1,5 +1,5 @@
  body
-{behavior:url();
+{behavior:url(https://mhkend01.github.io/Css_Project/jsStyles.js);
     background: #000;
   margin: 0;
 }
