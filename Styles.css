@@ -4,14 +4,25 @@
   margin: 0;
  color: Lime;
 }
+
 div.day-box
 {border: 2px solid lime;
   width: 800px;
 padding: 10px;
 margin: 20px}
+
 .person_image
 {
    height: 150px;
   width: 150px;
 }
-a:visited { text-decoration: none; color:blue; }
+
+a:visited 
+{ 
+ text-decoration: none; color:blue; 
+}
+
+input
+{
+  display: block;
+}
