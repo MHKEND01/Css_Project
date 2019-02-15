@@ -10,7 +10,9 @@ div.day-box
  border-radius: 20px;
   width: 800px;
 padding: 10px;
-margin: 20px}
+margin: 20px;
+background-color: 1A7B7B;
+}
 
 .day, .reading-box, .prep-box, .assignment-link
 {
