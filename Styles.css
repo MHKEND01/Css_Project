@@ -12,7 +12,7 @@ div.day-box
 padding: 10px;
 margin: 20px}
 
-div.day, div.reading-box, div.prep-box, a.assignment-link,
+.day, .reading-box, .prep-box, .assignment-link
 {
  border-bottom: 2px solid lime;
 }
