@@ -5,6 +5,11 @@ body
  color: #22A422;
 }
 
+div.header h1 {
+ margin: auto;
+ width: 50%;
+}
+
 .nav {
  background: blue;
  perspective: 100px;
@@ -14,7 +19,7 @@ div.day-box
 {
 border: 4px solid white;
 border-radius: 20px;
-opacity: 40%;
+
 width: 800px;
 padding: 10px;
 margin: 20px;
