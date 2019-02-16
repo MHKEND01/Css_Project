@@ -13,18 +13,18 @@ left: 600px;
 
 a
 { 
- text-decoration: none; 
+ text-decoration: none; color: none;
 }
 
 .nav {
- background: white;
+ background-color: rgba(200,0,0,.4);
  border-radius: 25px;
  margin: auto;
  text-align: center;
  width: 800px;
 }
 
-a:nth-child(2) { 
+.nav a:nth-child(2n) {
  background-color: rgba(31, 160, 146, 1);
 }
  
@@ -36,11 +36,11 @@ div.day-box
 {
 border: 4px solid white;
 border-radius: 20px;
-
+background-color: rgba(250,0,0,.6);
 width: 800px;
 padding: 10px;
 margin: 20px;
-background-color: #1A7B7B;
+
  
 }
 
