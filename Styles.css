@@ -6,24 +6,26 @@ body
 }
 
 div.header h1 {
- margin: auto;
- text-align: center;
- color: white;
+position: relative;
+bottom: 100px;
+left: 600px;
 }
 
 .nav {
-    background: white;
-    border-radius: 25px;
-    margin: auto;
-    text-align: center;
-    width: 800px;
+ background: white;
+ border-radius: 25px;
+ margin: auto;
+ text-align: center;
+ width: 800px;
 }
 
 .nav a:nth-child(2) { 
  background-color: rgba(31, 160, 146, 1);
- 
- 
 }
+ 
+.nav a {
+ margin: 30px;
+ }
 
 div.day-box
 {
