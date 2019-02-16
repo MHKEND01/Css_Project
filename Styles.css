@@ -4,9 +4,14 @@ body
  color: #22A422;
 }
 
-.nav a {
+.nav {
  background-color: green;
  margin: 3px;
+}
+
+.nav a {
+ text-decoration: none;
+ background-color: blue;
 }
 
 day-box
@@ -28,11 +33,6 @@ day-box
 {
   height: 150px;
   width: 150px;
-}
-
-a 
-{ 
- text-decoration: none; 
 }
 
 input
