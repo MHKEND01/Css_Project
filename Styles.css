@@ -13,9 +13,13 @@ div.header h1 {
 
 .nav {
  background: white;
- perspective: 100px;
+}
+
+.nav a {
+ width: 15px;
  border-radius: 25px;
- margin: auto;
+  
+ 
 }
 
 div.day-box
