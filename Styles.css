@@ -23,7 +23,7 @@ text-align: center;
 }
  
 .nav a {
- rgb(11,70,101,.4)
+ background-color: rgb(11,70,101,.4)
  margin: 30px;
  }
 
