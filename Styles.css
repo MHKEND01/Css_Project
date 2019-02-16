@@ -1,6 +1,6 @@
 body
 {
- background-image: url("videoblocks-blue-matrix-rain-of-digital-hex-code-loopable-animation-4k-uhd-3840x2160_rrlrf1v4lz_thumbnail-full01.png"); 
+ background-image: url("matrixblue.png"); 
  margin: 0;
  
 }
@@ -51,6 +51,9 @@ padding: 10px;
 input
 {
   display: block;
+}
+
+.header img {
 }
 
 
