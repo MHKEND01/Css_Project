@@ -19,12 +19,11 @@ text-align: center;
 }
 
 .nav a:nth-child(2n) {
- background-color: rgba(31, 160, 146, 1);
+ background-color: rgba(31, 160, 146, .7);
 }
  
-.nav a {
- background-color: rgba(11,70,101,.4);
- margin: 30px;
+.nav a:nth-child(1n) {
+ background-color: rgba(11,70,101, .7);
  }
 
 div.day-box
