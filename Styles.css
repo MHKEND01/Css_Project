@@ -11,8 +11,8 @@ bottom: 100px;
 left: 600px;
 }
 
-div a:link, div a:visited { 
- text-decoration: none!important;
+div.nav a:visited, div.nav a:link{ 
+ text-decoration: none;
 }
 
 .nav {
