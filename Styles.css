@@ -1,40 +1,37 @@
- body
+body
 {
-  
  margin: 0;
  color: #22A422;
 }
 
 @keyframes navbar {
-}
-
-.nav {
- background: blue;
- perspective: 100px;
+ 
 }
 
 day-box
-{border: 4px solid #22A422;
+{
+ border: 4px solid #22A422;
  border-radius: 20px;
-  width: 800px;
-padding: 10px;
-margin: 20px;
-background-color: #1A7B7B;
+ width: 800px;
+ padding: 10px;
+ margin: 20px;
+ background-color: #1A7B7B;
 }
 
 .day, .reading-box, .prep-box, .assignment-link
 {
  border-bottom: 2px solid #22A422;
 }
+
 .person_image
 {
-   height: 150px;
+  height: 150px;
   width: 150px;
 }
 
-a:visited 
+a 
 { 
- text-decoration: none; color:blue; 
+ text-decoration: none; 
 }
 
 input
