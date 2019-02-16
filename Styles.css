@@ -11,9 +11,9 @@ bottom: 100px;
 left: 600px;
 }
 
-a
+a, a:link, a:visited
 { 
- text-decoration: none;
+ text-decoration: none!important;
 }
 
 .nav {
