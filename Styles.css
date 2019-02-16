@@ -14,16 +14,19 @@ div.day-box
 {
 border: 4px solid white;
 border-radius: 20px;
+opacity: 40%;
 width: 800px;
 padding: 10px;
 margin: 20px;
 background-color: #1A7B7B;
+ 
 }
 
 .day, .reading-box, .prep-box, .assignment-link
 {
  border-bottom: 2px solid black;
 }
+
 .person_image
 {
   height: 150px;
