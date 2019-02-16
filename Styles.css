@@ -5,7 +5,15 @@
  color: #22A422;
 }
 
-div.day-box
+@keyframes navbar {
+}
+
+.nav {
+ background: blue;
+ perspective: 100px;
+}
+
+day-box
 {border: 4px solid #22A422;
  border-radius: 20px;
   width: 800px;
