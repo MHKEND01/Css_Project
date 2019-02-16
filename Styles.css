@@ -19,8 +19,8 @@ div.header h1 {
     width: 800px;
 }
 
-.nav a { 
- margin: 30px;
+.nav a:nth-child(2) { 
+ background-color: rgba(31, 160, 146, 1);
  
  
 }
