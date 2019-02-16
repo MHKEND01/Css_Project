@@ -38,6 +38,7 @@ border-radius: 20px;
 background-color: rgba(250,0,0,.6);
 width: 800px;
 margin: 0 auto;
+padding: 10px;
 }
 
 .day, .reading-box, .prep-box, .assignment-link
