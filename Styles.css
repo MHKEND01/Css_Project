@@ -4,8 +4,9 @@ body
  color: #22A422;
 }
 
-@keyframes navbar {
- 
+.nav a {
+ background-color: green;
+ margin: 3px;
 }
 
 day-box
