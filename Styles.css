@@ -1,7 +1,7 @@
 body
 {
-  background-image: url("https://mhkend01.github.io/Css_Project/matrix.gif");
-  margin: 0;
+ background-image: url("https://mhkend01.github.io/Css_Project/matrix.gif");
+ margin: 0;
  color: #22A422;
 }
 
@@ -11,9 +11,10 @@ body
 }
 
 day-box
-{border: 4px solid #22A422;
- border-radius: 20px;
-  width: 800px;
+{
+border: 4px solid #22A422;
+border-radius: 20px;
+width: 800px;
 padding: 10px;
 margin: 20px;
 background-color: #1A7B7B;
@@ -21,11 +22,11 @@ background-color: #1A7B7B;
 
 .day, .reading-box, .prep-box, .assignment-link
 {
- border-bottom: 2px solid #22A422;
+ border-bottom: 2px solid black;
 }
 .person_image
 {
-   height: 150px;
+  height: 150px;
   width: 150px;
 }
 
