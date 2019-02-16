@@ -12,14 +12,16 @@ div.header h1 {
 }
 
 .nav {
- background: white;
- width: 300px;
+    background: white;
+    border-radius: 25px;
+    margin: auto;
+    text-align: center;
+    width: 650px;
 }
 
-.nav a {
- width: 15px;
- border-radius: 25px;
-  
+.nav a { 
+ margin: 40px;
+ 
  
 }
 
