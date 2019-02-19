@@ -22,6 +22,7 @@ text-align: center;
 {
  margin: auto;
  width: 800px;
+ font-size: 200%;
 }
 
 .nav a:nth-child(2n)
