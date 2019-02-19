@@ -25,6 +25,15 @@ text-align: center;
  font-size: 200%;
 }
 
+a:link
+{
+  color: rgb(9, 208, 44);
+}
+
+a:visited {
+  color: rgb(0, 137, 24);
+}
+
 .nav a:nth-child(2n)
 {
  background-color: rgba(31, 160, 146, .9);
