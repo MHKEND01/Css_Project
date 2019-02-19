@@ -27,11 +27,10 @@ top: 200px;
 
 .nav
 {
- margin-left: auto;
- margin-right: auto:
- margin: 10px;
- width: 800px;
- font-size: 200%;
+  position: relative;
+  left: 50%;
+  width: 800px;
+  font-size: 200%;
 }
 
 a:link
