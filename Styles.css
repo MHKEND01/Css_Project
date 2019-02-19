@@ -1,3 +1,8 @@
+@font-face {
+  font-family: checkBook;
+  src: url(CHECKBK0.TFF);
+}
+
 
 body
 {
@@ -23,6 +28,7 @@ color: rgb(11,157,177);
 text-align: center;
 position: relative;
 top: 200px;
+font-familt: checkBook;
 }
 
 .nav
