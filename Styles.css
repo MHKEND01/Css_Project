@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
   font-family: 'game';
   src: url('Gameplay.ttf') format('truetype');
@@ -31,6 +32,8 @@ body
 .header .person_info
 {
   width: 20%;
+=======
+>>>>>>> b2d89f19b479dbec43bc42dd6fb7c7fc84069bfc
 display: inline-block;
 }
 
