@@ -187,11 +187,11 @@ background-size: 40px;
 display: block;
 }
 
-tr:first-child
+ body > table. > tr:first-child
 {
     display: none;
 }
-tr
+ body > table. >tr
 {
     float: left;
     width: 400px;
