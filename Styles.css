@@ -147,7 +147,7 @@ position: relative;
 top: 200px;
 }
 
-.assignment-title
+body > .assignment-title
 {
 position: relative;
 top: 200px;
