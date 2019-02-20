@@ -31,23 +31,23 @@ body
 .header .person_info
 {
   width: 20%;
-  display: inline-block;
+display: inline-block;
 }
 
 .header .partners
 {
-  width: 60%;
-  display: inline;
+width: 60%;
+display: inline;
 }
 
 .header .partners .person_info .username
 {
-  display: inline
+display: inline
 }
 
 .header .partners .person_info a
 {
-  display: inline;
+display: inline;
 }
 
 h1
@@ -61,32 +61,32 @@ font-family: game;
 
 .nav
 {
-  position: relative;
-  bottom: 15%;
-  left: 50%;
-  width: 800px;
-  font-size: 160%;
-  font-family: game;
+position: relative;
+bottom: 15%;
+left: 50%;
+width: 800px;
+font-size: 160%;
+font-family: game;
 }
 
 a:link
 {
-  color: rgb(9, 208, 44);
+color: rgb(9, 208, 44);
 }
 
 a:visited {
-  color: rgb(0, 137, 24);
+color: rgb(0, 137, 24);
 }
 
 .nav a:nth-child(2n)
 {
- background-color: rgba(31, 160, 146, .9);
+background-color: rgba(31, 160, 146, .9);
 }
 
 .nav a:nth-child(1n)
 {
- background-color: rgba(11,70,101, .9);
- }
+background-color: rgba(11,70,101, .9);
+}
 
 div.day-box
 {
@@ -102,44 +102,60 @@ top: 200px;
 
 .day, .reading-box, .prep-box, .assignment-link
 {
- border-bottom: 2px solid black;
+border-bottom: 2px solid black;
 }
 
 .person_image
 {
-  height: 150px;
-  width: 150px;
+display: inline-block;
+height: 150px;
+width: 150px;
 }
 
 table
 {
-  position: relative;
-  top: 200px;
+position: relative;
+top: 200px;
 }
 
 svg
 {
-  position: relative;
-  top: 200px;
+position: relative;
+top: 200px;
 }
 
 form
 {
-  position: relative;
-  top: 200px;
+position: relative;
+top: 200px;
 }
 
 body > a
 {
-  position: relative;
-  top: 200px;
+position: relative;
+top: 200px;
 }
 
 input
 {
-  display: block;
+display: block;
 }
 
 .header img
 {
+}
+
+.sound
+{
+position: relative;
+right: 20%;
+display: inline-block;
+width: 40px;
+height: 40px;
+background-color: red;
+}
+
+.person_info .username
+{
+display: inline-block;
 }
