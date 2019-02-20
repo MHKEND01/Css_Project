@@ -42,12 +42,12 @@ display: inline;
 
 .header .partners .person_info .username
 {
-display: inline
+display: block;
 }
 
 .header .partners .person_info a
 {
-display: inline;
+display: block;
 }
 
 h1
@@ -183,5 +183,5 @@ background-color: red;
 
 .person_info .username
 {
-display: inline-block;
+display: block;
 }
