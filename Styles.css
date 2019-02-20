@@ -22,9 +22,34 @@ body
     background-color: rgb(10, 38, 120);
     position: fixed;
     width: 100%;
-    height: 25%;
+    height: 27%;
     z-index: 1;
     top: 0;
+}
+
+
+.header .person_info
+{
+  width: 20%;
+  display: inline-block;
+}
+
+.header .partners
+{
+  width: 60%;
+  display: inline;
+}
+
+.header .partners .person_info .username
+{
+  font-family: Arial;
+  display: inline
+}
+
+.header .partners .person_info a
+{
+  font-family: Arial;
+  display: inline;
 }
 
 h1
@@ -40,7 +65,7 @@ font-family: checkBook;
 {
   position: relative;
   bottom: 15%;
-  left: 40%;
+  left: 50%;
   width: 800px;
   font-size: 200%;
 }
