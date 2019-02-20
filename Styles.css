@@ -67,7 +67,8 @@ font-family: game;
   bottom: 15%;
   left: 50%;
   width: 800px;
-  font-size: 200%;
+  font-size: 160%;
+  font-family: game;
 }
 
 a:link
