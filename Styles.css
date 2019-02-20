@@ -30,7 +30,7 @@ body
 
 .header .person_info
 {
-  width: 20%;
+  width: 15%;
   display: inline-block;
 }
 
@@ -65,7 +65,7 @@ font-family: game;
 {
   position: relative;
   bottom: 15%;
-  left: 50%;
+  left: 40%;
   width: 800px;
   font-size: 160%;
   font-family: game;
