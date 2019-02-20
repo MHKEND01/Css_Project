@@ -129,6 +129,12 @@ form
   top: 200px;
 }
 
+h3
+{
+  position: relative;
+  top: 200px;
+}
+
 body > a
 {
   position: relative;
