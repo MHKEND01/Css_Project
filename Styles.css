@@ -32,8 +32,11 @@ body
 .header .person_info
 {
   width: 20%;
+<<<<<<< HEAD
 =======
 >>>>>>> b2d89f19b479dbec43bc42dd6fb7c7fc84069bfc
+=======
+>>>>>>> 591ea69a83b4a44b93fc654a9c07b7dec7e8edde
 display: inline-block;
 }
 
