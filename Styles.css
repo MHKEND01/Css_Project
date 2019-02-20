@@ -42,13 +42,11 @@ body
 
 .header .partners .person_info .username
 {
-  font-family: Arial;
   display: inline
 }
 
 .header .partners .person_info a
 {
-  font-family: Arial;
   display: inline;
 }
 
@@ -113,15 +111,15 @@ top: 200px;
   width: 150px;
 }
 
-input
-{
-  display: block;
-}
-
-svg
+table
 {
   position: relative;
   top: 200px;
+}
+
+input
+{
+  display: block;
 }
 
 .header img
