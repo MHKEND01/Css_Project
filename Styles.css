@@ -122,6 +122,13 @@ svg
   position: relative;
   top: 200px;
 }
+
+form
+{
+  position: relative;
+  top: 200px;
+}
+
 input
 {
   display: block;
