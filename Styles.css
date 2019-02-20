@@ -117,6 +117,11 @@ table
   top: 200px;
 }
 
+svg
+{
+  position: relative;
+  top: 200px;
+}
 input
 {
   display: block;
