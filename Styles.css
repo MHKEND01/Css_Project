@@ -71,7 +71,7 @@ font-family: game;
 
 a:hover
 {
-  color: rgb(90,222,113);
+  background-color: rgb(90,222,113);
 }
 a:link
 {
@@ -82,15 +82,6 @@ a:visited {
 color: rgb(0, 137, 24);
 }
 
-.nav a:nth-child(2n)
-{
-background-color: rgba(31, 160, 146, .9);
-}
-
-.nav a:nth-child(1n)
-{
-background-color: rgba(11,70,101, .9);
-}
 
 div.day-box
 {
