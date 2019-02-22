@@ -64,7 +64,22 @@ h1
     text-decoration: none;
     display: block;
     margin-bottom: 3px;
+    text-transform: uppercase;
+    color:blue;
 }
+
+.nav a:before {
+ color:white;
+ overflow:hidden;
+ width:0%;
+ transition: 1s;
+  
+  
+}
+
+.nav:hover:before {
+  width: 100%;
+  |
 
 a:link
 {
