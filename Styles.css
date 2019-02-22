@@ -93,6 +93,10 @@ top: 215px;
 {
 border-bottom: 2px solid rgb(9, 208, 44);
 }
+.assignment-link {
+  position: relative;
+  left: 130px;
+}
 
 .person_image
 {
