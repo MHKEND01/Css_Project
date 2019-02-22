@@ -79,7 +79,7 @@ h1
 
 .nav:hover:before {
   width: 100%;
-  |
+}
 
 a:link
 {
@@ -125,6 +125,7 @@ svg
 {
 position: relative;
 top: 200px;
+left: 130px;
 }
 
 form
@@ -145,6 +146,7 @@ h3
 {
 position: relative;
 top: 200px;
+left: 130px;
 }
 
 body > .assignment-title
@@ -157,6 +159,7 @@ top: 200px;
 {
 position: relative;
 top: 200px;
+left: 130px;
 }
 
 .view_text
@@ -194,10 +197,12 @@ display: block;
   body > table > tbody > tr
 {
     float: left;
-    width: 400px;
+    width: 350px;
     margin: 5px;
     background-color: rgba(0, 137, 24,0.9);
     color: rgb(40, 62, 125)
+    position: relative;
+    left: 130px;
 }
 
 h1 {
@@ -220,4 +225,9 @@ h1 {
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: orange; }
+}
+
+.assignment_link {
+  position: relative;
+  left: 130px;
 }
