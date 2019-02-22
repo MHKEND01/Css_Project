@@ -66,7 +66,6 @@ h1
     margin-bottom: 3px;
 }
 
-
 a:link
 {
 color: rgb(9, 208, 44);
@@ -85,12 +84,9 @@ background-color: rgba(14,38,61, .8);
 width: 800px;
 margin: 0px auto;
 margin-bottom: 5px;
-
 padding: 10px;
 position: relative;
 top: 215px;
-
-
 }
 
 .day, .reading-box, .prep-box, .assignment-link
@@ -99,7 +95,9 @@ border-bottom: 2px solid rgb(9, 208, 44);
 }
 
 .person_image
-{display: inline-block;height: 150px;width: 150px;}
+{
+display: inline-block;height: 150px;width: 150px;
+}
 
 body > table
 {
@@ -115,7 +113,10 @@ left: 130px;
 }
 
 form
-{position: relative;top: 200px;left: 150px;display: inline;}
+{
+position: relative;top: 200px;
+left: 150px;
+}
 
 body > a
 {
@@ -132,13 +133,14 @@ h3
 {
 position: relative;
 top: 200px;
-left: 130px;
+ 
 }
 
 body > .assignment-title
 {
 position: relative;
 top: 200px;
+
 }
 
 .prompt
@@ -180,15 +182,15 @@ display: block;
 {
     display: none;
 }
-  body > table > tbody > tr
+
+body > table > tbody > tr
 {
-    float: left;
-    width: 350px;
-    margin: 5px;
-    background-color: rgba(0, 137, 24,0.9);
-    color: rgb(40, 62, 125)
-    position: relative;
-    left: 130px;
+float: left;
+width: 350px;
+margin: 5px;
+background-color: rgba(0, 137, 24,0.9);
+color: rgb(40, 62, 125)
+
 }
 
 h1 {
@@ -211,9 +213,4 @@ h1 {
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: orange; }
-}
-
-.assignment_link {
-  position: relative;
-  left: 130px;
 }
