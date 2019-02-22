@@ -194,7 +194,3 @@ display: block;
     background-color: rgba(0, 137, 24,0.9);
     color: rgb(10,38,120)
 }
-
-.module {
-  cursor: url('curs.png'), auto;	
-}
