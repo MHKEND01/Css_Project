@@ -103,6 +103,7 @@ body > table
 {
 position: relative;
 top: 200px;
+left: 130px;
 }
 
 svg
@@ -140,6 +141,7 @@ body > .assignment-title
 {
 position: relative;
 top: 200px;
+left: 130px;
 
 }
 
