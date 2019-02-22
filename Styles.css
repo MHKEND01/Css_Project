@@ -97,7 +97,7 @@ top: 200px;
 
 .day, .reading-box, .prep-box, .assignment-link
 {
-border-bottom: 2px solid black;
+border-bottom: 2px solid rgb(9, 208, 44);
 }
 
 .person_image
