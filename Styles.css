@@ -57,14 +57,13 @@ h1
     position: relative;
     width: 400px;
     font-size: 150%;
-    font-family: game;
-    top: 10px;
+    top: 30px;
 }
 
 .nav a {
-  display: block;
-  text-decoration: none;
-  margin-bottom: 5px;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 3px;
 }
 
 a:link
