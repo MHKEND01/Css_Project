@@ -61,6 +61,12 @@ h1
     top: 10px;
 }
 
+.nav a {
+  display: block;
+  text-decoration: none;
+  margin-bottom: 5px;
+}
+
 a:link
 {
 color: rgb(9, 208, 44);
