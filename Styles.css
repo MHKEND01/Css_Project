@@ -2,6 +2,10 @@
   font-family: 'game';
   src: url('Gameplay.ttf') format('truetype');
 }
+
+textarea {
+      background-color: rgba(19, 246, 238, .7); 
+}
 @font-face {
   font-family: 'data';
   src: url('data-latin.ttf') format('truetype');
