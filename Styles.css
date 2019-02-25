@@ -204,7 +204,8 @@ float: left;
 width: 350px;
 margin: 5px;
 background-image: url(classmates.png);
-color: rgb(40, 62, 125)
+opacity: .9;
+color: rgb(113, 199, 173);
 
 }
 
