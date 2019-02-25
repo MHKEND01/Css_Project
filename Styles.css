@@ -202,7 +202,7 @@ body > table > tbody > tr
 float: left;
 width: 350px;
 margin: 5px;
-background-color: rgba(0, 137, 24,0.9);
+background-image: url(classmates.png);
 color: rgb(40, 62, 125)
 
 }
