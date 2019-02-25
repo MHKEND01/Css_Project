@@ -55,7 +55,7 @@ display: block;
 }
 
 h1
-{color: rgb(115, 232, 196);text-align: center;position: relative;position:  fixed;margin: 0px auto;top: 125px;left: 750px;Z-INDEX: 2;font-family: game;}
+{color: #8dccccfa;text-align: center;position: relative;position:  fixed;margin: 0px auto;top: 125px;left: 750px;Z-INDEX: 2;font-family: game;}
 
 .nav {
     position: relative;
@@ -72,11 +72,12 @@ h1
 
 a:link
 {
-color: rgb(9, 208, 44);
+color: rgba(19, 246, 238, .7);
+text-decoration: none;
 }
 
 a:visited {
-color: rgb(0, 137, 24);
+color: rgba(19, 246, 238, .7);
 }
 
 .graded-assignment {
@@ -97,7 +98,7 @@ top: 215px;
 
 .day, .reading-box, .prep-box, .assignment-link
 {
-border-bottom: 2px solid rgb(9, 208, 44);
+border-bottom: 2px solid rgba(0, 0, 0, 0.8);
 }
 .assignment-link {
   position: relative;
