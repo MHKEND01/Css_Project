@@ -51,7 +51,7 @@ display: block;
 }
 
 h1
-{color: rgb(11,157,177);text-align: center;position: relative;position:  fixed;margin: 0px auto;top: 65px;left: 750px;Z-INDEX: 2;font-family: game;}
+{color: rgb(115, 232, 196);;text-align: center;position: relative;position:  fixed;margin: 0px auto;top: 65px;left: 750px;Z-INDEX: 2;font-family: game;}
 
 .nav {
     position: relative;
@@ -204,11 +204,11 @@ color: rgb(40, 62, 125)
 }
 
 h1 {
- overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
+ overflow: hidden; 
+  border-right: .15em solid orange; 
+  white-space: nowrap; 
+  margin: 0 auto;
+  letter-spacing: .15em; 
   animation: 
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
@@ -219,8 +219,8 @@ h1 {
   to { width: 100% }
 }
 
-/* The typewriter cursor effect */
+
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: orange; }
+  50% { border-color: #e6fdfd; }
 }
