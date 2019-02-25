@@ -55,7 +55,7 @@ display: block;
 }
 
 h1
-{color: rgb(115, 232, 196);;text-align: center;position: relative;position:  fixed;margin: 0px auto;top: 65px;left: 750px;Z-INDEX: 2;font-family: game;}
+{color: rgb(115, 232, 196);text-align: center;position: relative;position:  fixed;margin: 0px auto;top: 125px;left: 750px;Z-INDEX: 2;font-family: game;}
 
 .nav {
     position: relative;
@@ -162,7 +162,6 @@ position: relative;
 top: 200px;
 left: 130px;
 }
-
 
 .view_text {
     position: relative;
