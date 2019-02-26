@@ -31,6 +31,12 @@ body
     top: 0;
 }
 
+.seat_pic {
+    width: 75px;
+    height: 102px; 
+}
+
+
 
 .header .person_info
 {
@@ -120,8 +126,8 @@ left: 130px;
 svg
 {
 position: relative;
-top: 200px;
-left: 130px;
+top: 218px;
+left: 600px;
 background-image: url(order.png);
 
 }
