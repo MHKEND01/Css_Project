@@ -3,6 +3,30 @@
   src: url('Gameplay.ttf') format('truetype');
 }
 
+form > img.person_image {
+    display: block;
+    position: relative;
+}
+
+input[name="person_prefered_name"], body > form > label:nth-child(4) {
+    position: relative;
+    left: 175px;
+}
+
+body > form > input[type="file"]:nth-child(16), body > form > input[type="file"]:nth-child(14) {
+  margin-bottom: 15px;
+}
+
+input[name="person_prefered_pronoun"], body > form > label:nth-child(8) {
+    position: relative;
+    left: 175px;
+}
+
+form > img.person_image, body > form > label:nth-child(12) {
+    position: relative;
+    left: 175px;
+}
+
 textarea {
       background-color: rgba(19, 246, 238, .7); 
 }
