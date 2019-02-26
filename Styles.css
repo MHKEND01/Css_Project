@@ -8,6 +8,10 @@
     color: #e6fdfd;
 }
 
+form > p {
+    max-width: 600px;
+}
+
 form > img.person_image {
     display: block;
     position: relative;
