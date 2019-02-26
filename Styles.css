@@ -268,7 +268,6 @@ display: block;
 
 body > table > tbody > tr
 {
-body > table > tbody > tr {
     float: left;
     /* border-color: azure; */
     /* border-width: 2px; */
@@ -280,8 +279,6 @@ body > table > tbody > tr {
     border-width: 1px;
     border-color: azure;
     border-style: groove;
-}
-
 }
 
 h1 {
