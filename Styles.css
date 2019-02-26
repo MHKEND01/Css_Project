@@ -12,7 +12,7 @@ table.grade-table > tbody > tr td {
     border: solid 1px rgb(11,157,177);
 }
 
-.prompt, .view_text {
+.prompt, .view_text, .assignment-title {
   max-width: 600px; 
 }
 input[name="person_prefered_name"], body > form > label:nth-child(4) {
