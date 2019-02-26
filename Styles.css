@@ -3,6 +3,11 @@
   src: url('Gameplay.ttf') format('truetype');
 }
 
+
+.day-box a:hover {
+    color: #e6fdfd;
+}
+
 form > img.person_image {
     display: block;
     position: relative;
