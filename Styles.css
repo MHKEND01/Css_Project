@@ -12,7 +12,7 @@ table.grade-table > tbody > tr td {
     border: solid 1px rgb(11,157,177);
 }
 
-.prompt, .view_text, form > .assignment-title {
+.prompt, .view_text, body > form > div.assignment_title {
   max-width: 600px; 
   background-color: black;
   opacity; .8;
@@ -26,7 +26,7 @@ input[name="person_prefered_name"], body > form > label:nth-child(4) {
     background-color: black;
     opacity: .8;
 }
-div.assignment_prompt ol {
+form.assignment_prompt ol {
     background-color: black;
     opacity: .8;
     max-width: 800px;
