@@ -116,7 +116,7 @@ h1
     width: 130px;
     font-size: 150%;
     top: 30px;
-    transition: transform .2s;
+    transition: transform .3s;
 }
 
 .nav a {
@@ -290,10 +290,7 @@ h1 {
 
 
 
-.nav:hover {
-  -ms-transform: scale(1.5); /* IE 9 */
-  -webkit-transform: scale(1.5); /* Safari 3-8 */
-  transform: scale(1.5); 
+.nav a:hover {
   color: #e6fdfd;
 }
 
