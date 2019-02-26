@@ -72,12 +72,12 @@ h1
 
 a:link
 {
-color: rgba(19, 246, 238, .7);
+color: rgba(0, 275, 31, .7);
 text-decoration: none;
 }
 
 a:visited {
-color: rgba(19, 246, 238, .7);
+color: rgba(0, 275, 31, .7);
 }
 
 .graded-assignment {
