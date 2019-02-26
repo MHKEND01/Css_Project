@@ -268,12 +268,19 @@ display: block;
 
 body > table > tbody > tr
 {
-float: left;
-width: 350px;
-margin: 5px;
-background-image: url(classmates.png);
-opacity: .9;
-color: #e6fdfd;
+body > table > tbody > tr {
+    float: left;
+    /* border-color: azure; */
+    /* border-width: 2px; */
+    width: 350px;
+    margin: 5px;
+    background-image: url(classmates.png);
+    opacity: .9;
+    color: #e6fdfd;
+    border-width: 1px;
+    border-color: azure;
+    border-style: groove;
+}
 
 }
 
