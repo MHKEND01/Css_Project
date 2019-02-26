@@ -8,6 +8,13 @@ form > img.person_image {
     position: relative;
 }
 
+table.grade-table > tbody > tr td {
+    border: solid 1px rgb(11,157,177);
+}
+
+.prompt, .view_text {
+  max-width: 600px; 
+}
 input[name="person_prefered_name"], body > form > label:nth-child(4) {
     position: relative;
     left: 175px;
